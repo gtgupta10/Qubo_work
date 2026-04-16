@@ -1,4 +1,7 @@
 """
+By
+Geet Gupta 
+
 site_find_2CO.py  (v7 — all 4560 pairs, no distance filter)
 ─────────────────────────────────────────────────────────────────────────────
 Places TWO CO molecules on every combination of 2 distinct adsorption sites
